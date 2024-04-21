@@ -1,0 +1,40 @@
+.jumbotron{
+    background-image: url("./ABSTRACT_WALLPAPER_Mesa_de_trabajo_1.jpg");
+    margin-top: 50px;
+    text-align: center;
+    color: white !important;
+    background-size: cover;
+}
+#content{
+    text-align: center;
+}
+.card-deck{
+   margin-left: 180px;
+   padding-top: 40px;
+}
+#appstoreicon{
+    width: 200px;
+}
+#footer{
+    background-image: url("./ABSTRACT_WALLPAPER_Mesa_de_trabajo_1.jpg");
+    background-size: cover;
+    padding-top: 150px;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 150px;
+}
+#thirdtitle{
+    padding-top: 78px;
+}
+#hed{
+    font-family: 'Courier New', Courier, monospace;
+}
+#awe{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#getiton{
+    color: white;
+}
+#navbar{
+    background-color: white
+}
